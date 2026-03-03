@@ -48,8 +48,6 @@ export default function TodayList({ todayTarget, handleDelete }) {
           </div>
         );
       })}
-
-      <h1 className="text-3xl font-bold text-pink-400">Na Risauna ❤️❤️😘😘</h1>
     </>
   );
 }
